@@ -1,0 +1,135 @@
+*{
+    font-size: 18px;
+   
+}
+.header{
+    margin-top:30px;
+    margin-left:200px;
+    display: flex;
+}
+.logo-container{
+    padding-right:900px;
+}
+.pre-order{
+    background-color:rgb(211, 211, 211);
+    border-radius:5px;
+    padding:10px 15px;
+    margin-bottom:5px;
+    cursor: pointer;
+    font-family:Barlow; 
+    font-size:14px;
+}
+.pre-order:hover{
+    color:rgb(211, 211, 211);
+    background-color:rgb(0,0,0);
+}
+.heading{
+    width:440px;
+    padding-top:100px;
+    margin-left:200px;
+    font-size:70px;
+    font-weight: bold;
+    font-family:Barlow;
+}
+.para-container{
+    margin-left:200px;
+}
+.para{
+    font-family: Barlow;
+    color: rgb(191, 191, 191);
+    width: 450px;
+}
+.order-container{
+    display: flex;
+  
+}
+.image-container{
+    padding-top:100px;
+}
+.image-1{
+    margin-bottom:30px;
+    padding-left:220px;
+    border-radius:20px;
+    height:400px;
+    width:400px;
+}
+.mech-keyboard{
+    margin-left:200px;
+    display: flex;
+}
+.photos-container{
+    display: flex;
+    margin-top:30px;
+    margin-left:200px;
+}
+.img-1{
+    height: 400px;
+    width: 300px;
+    border-radius:20px;
+    padding-right:10px;
+    filter: invert(29%) sepia(41%) saturate(6016%) hue-rotate(2deg) brightness(63%) contrast(115%);
+}
+.img-2{
+    height:400px;
+    width:430px;
+    border-radius:20px;
+    padding-right:10px;
+}
+
+.mech-info{
+    padding:40px 45px;
+    padding-bottom:10px;
+    width:210px;
+
+}
+.mech-heading{
+    font-family:Barlow;
+    font-size:30px;
+}
+.mech-about{
+    padding:10px 5px;
+    width:220px;
+}
+.about{
+    font-size: 16px;
+    font-family: Barlow;
+    color: rgb(191, 191, 191);
+}
+.footer{
+    margin-top:50px;
+    margin-left:200px;
+    display: flex;
+    grid-template-rows:400px;
+}
+.items{
+    padding-right:80px;
+}
+.footer-logo{
+    background-color:rgb(215, 91, 8);
+    border-radius:20px;
+    height:50px;
+    width:50px;
+    padding:10px;
+}
+.footer-heading{
+    width:100px;
+    font-size:20px;
+    font-family: Barlow;
+    font-weight: bold;
+}
+.footer-about{
+    width:200px;
+    font-size:16px;
+    font-family: Barlow;
+    color:rgb(191, 191, 191);
+}
+
+.rights{
+    margin-left: 200px;
+    font-family:Barlow;
+    padding-left:50px;
+    padding-bottom:3px;
+    margin-right:200px;
+    color:gray;
+    background-color: lightgray;
+}

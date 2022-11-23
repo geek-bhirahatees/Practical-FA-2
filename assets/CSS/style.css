@@ -39,6 +39,20 @@
     color: rgb(191, 191, 191);
     width: 450px;
 }
+.pre-order-btn{
+    padding: 15px;
+    background-color:rgb(255, 165, 0);
+    font-family:Barlow;
+    color:white;
+    border: 2px solid rgb(255, 165, 0)  ;
+    border-radius:10px;
+}
+.date{
+    margin-top:15px;
+    margin-left:35px;
+    color: rgb(191, 191, 191);
+    font-family: Barlow;
+}
 .order-container{
     display: flex;
   
